@@ -1,5 +1,7 @@
 # note-app
 
+An application that use for archive your notes
+
 ## Project setup
 ```
 npm install
